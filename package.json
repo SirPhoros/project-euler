@@ -1,0 +1,19 @@
+{
+  "name": "project-euler",
+  "version": "1.0.0",
+  "description": "A repo to practise some problem-solving challenges with the Project Euler problems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirPhoros/project-euler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SirPhoros/project-euler/issues"
+  },
+  "homepage": "https://github.com/SirPhoros/project-euler#readme"
+}
